@@ -10,8 +10,10 @@ This project was developed as part of the final project for the Algorithms and P
 
 1. Clone this repository:
 
+     ```bash
     git clone https://github.com/rachel27p/Tugas-Akhir-Alpro
     cd Tugas-Akhir-Alpro
+    ```
 
 2. Run the program according to the instructions provided in the project.
 
